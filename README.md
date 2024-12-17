@@ -1,0 +1,1 @@
+In this project, I analysed 19 samples from individuals who died due to COVID-19 and 7 samples from uninfected individuals. Differential expression analysis is performed to see which gene is significantly highly expressed in which cluster. GO enrichment analysis is done for further understanding the biological pathways of the gene associated with the cluster. 
